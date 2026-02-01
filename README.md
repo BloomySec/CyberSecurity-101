@@ -5,8 +5,8 @@
 ## 📊 Progress Tracker
 | Room | Status | Key Skills Demonstrated | Link |
 |------|--------|------------------------|------|
-| [Search Skills](room/Search-Skills/) | 🔄 In progress | OSINT, search operators, documentation lookup, threat intel sources | [THM:Search Skills](https://tryhackme.com/room/searchskills) |
-| [Active Directory Basics](room/Active-Directory-Basics/) | ⏳ Planned | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
+| [Search Skills](Room/Search-Skills/) | 🔄 In progress | OSINT, search operators, documentation lookup, threat intel sources | [THM:Search Skills](https://tryhackme.com/room/searchskills) |
+| [Active Directory Basics](Room/Active-Directory-Basics/) | ⏳ Planned | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
 | [Next room] | ⏳ Planned | | |
 
 ## 🎯 Skills Developed
