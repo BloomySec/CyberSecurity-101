@@ -6,7 +6,7 @@ Documenting foundational cybersecurity labs with a **security operations (SOC) f
 ## 📊 Progress Tracker
 | Room | Status |Date Completed | Key Skills Demonstrated | Link |
 |------|------|------|------|------|
-| [Active Directory Basics](/Active-Directory-Basics.md/) |  ✅ Complete | | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
+| [Active Directory Basics](/Active-Directory-Basics.md/) |  ✅ Complete | 2 Feb 2026 | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
 | [Wireshark: The Basics](Wireshark-The-Basics.md/) | ⏳ Planned | | Wireshark, protocols and PCAPs | [THM:Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) |
 
 ## 🎯 Skills Developed
