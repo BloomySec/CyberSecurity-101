@@ -6,9 +6,8 @@ Documenting foundational cybersecurity labs with a **security operations (SOC) f
 ## 📊 Progress Tracker
 | Room | Status |Date Completed | Key Skills Demonstrated | Link |
 |------|------|------|------|------|
-| [Search Skills](Room/Search-Skills/) | 🔄 In progress | | OSINT, search operators, documentation lookup, threat intel sources | [THM:Search Skills](https://tryhackme.com/room/searchskills) |
-| [Active Directory Basics](Room/Active-Directory-Basics/) | ⏳ Planned | | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
-| [Next room] | ⏳ Planned | | | |
+| [Active Directory Basics](Room/Active-Directory-Basics/) | 🔄 In progress | | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
+| [Wireshark: The Basics](Room/Wireshark-The-Basics/) | ⏳ Planned | | Wireshark, protocols and PCAPs | [THM:Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) |
 
 ## 🎯 Skills Developed
 - Threat intelligence gathering
