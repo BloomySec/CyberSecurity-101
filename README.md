@@ -1,12 +1,12 @@
 # 🛡️ TryHackMe CyberSecurity-101 Path  
 Documenting foundational cybersecurity labs with a **security operations (SOC) focus** and real-world context.
 
-<!-- | Search Skills | ✅ Complete | OSINT, search operators, documentation |-->
+<!-- | Search Skills | 🔄 In progress | OSINT, search operators, documentation |-->
 
 ## 📊 Progress Tracker
 | Room | Status |Date Completed | Key Skills Demonstrated | Link |
 |------|------|------|------|------|
-| [Active Directory Basics](Room/Active-Directory-Basics/) | 🔄 In progress | | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
+| [Active Directory Basics](Room/Active-Directory-Basics/) |  ✅ Complete | | Windows domains, AD structure, GPOs, authentication | [THM:Active Directory Basics](https://tryhackme.com/room/winadbasics) |
 | [Wireshark: The Basics](Room/Wireshark-The-Basics/) | ⏳ Planned | | Wireshark, protocols and PCAPs | [THM:Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) |
 
 ## 🎯 Skills Developed
